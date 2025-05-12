@@ -2,7 +2,7 @@
 面向科研领域常见任务的人工智能算法评测PatentNLP-Benchmark  
   
 **不同任务的评测指标**  
-![评测类型图](./resources/img/评测类型图.png)
+![评测类型图](./resources/img/评测指标类型图.png)
 
 **机器翻译评测结果对比**
 |                   | Bleu  | Rouge1 | Rouge2 | RougeL |
@@ -26,7 +26,7 @@
 | Falconsai Text Summarization | 0.036 | 0.21   | 0.077  | 0.184  |
 | T5-Small-Booksum             | 0.083 | 0.318  | 0.128  | 0.271  |
   
-**对比图**
+**对比图**  
 ![自动摘要对比图](./resources/img/自动摘要对比图.png)  
   
 **知识表示评测结果对比**  
