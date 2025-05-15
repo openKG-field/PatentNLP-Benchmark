@@ -2,7 +2,9 @@
 面向科研领域常见任务的人工智能算法评测PatentNLP-Benchmark  
   
 **不同任务的评测指标**  
-![评测类型图](./resources/img/评测指标类型图.png)
+![评测类型图](./resources/img/评测类型图.png)  
+  
+[PatentBenchmark网站](http:113.44.136.92)
 
 **机器翻译评测结果对比**
 |                   | Bleu  | Rouge1 | Rouge2 | RougeL |
