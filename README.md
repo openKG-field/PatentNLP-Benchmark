@@ -1,5 +1,5 @@
 # PatentNLP-Benchmark 
-面向科研领域常见任务的人工智能算法评测PatentNLP-Benchmark  
+专利领域常见任务的智能算法评测PatentNLP-Benchmark  
   
 **不同任务的评测指标**  
 ![评测类型图](./resources/img/评测类型图.png)  
